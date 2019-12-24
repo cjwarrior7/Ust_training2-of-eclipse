@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Login page</title>
+</head>
+<body>
+<br>
+<input type="text" name="firstname:" placeholder="firstname">
+<br>
+<input type="number" name="MOB NUM:" placeholder="9810198101">
+
+</body>
+</html>

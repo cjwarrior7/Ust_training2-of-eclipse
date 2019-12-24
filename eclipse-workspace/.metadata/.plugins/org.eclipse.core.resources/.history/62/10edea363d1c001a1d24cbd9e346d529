@@ -1,0 +1,56 @@
+package com.company.crudoperations;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/EditServlet")
+public class EditServlet extends HttpServlet {
+
+
+	
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		PrintWriter pw=response.getWriter();
+		String sid=request.getParameter("id");
+		Integer id=Integer.parseInt(sid);
+		 try {
+				Class.forName("com.mysql.cj.jdbc.Driver");
+				Connection conn=DriverManager.getConnection("jdbc:mysql://localhost:3306/my_testdb_adv_java?user=root&password=root");
+				PreparedStatement pst=conn.prepareStatement("select * from student_crud where id=?");
+				pst.setInt(1,id );
+			    ResultSet rs=pst.executeQuery();
+			    while(rs.next()) {
+			    pw.print("<h1 align=center>UPADTE STUDENTS</h1>");
+		        pw.print("<h4 align=center>"+
+		      "<form action=UpdateServlet method=Post><br>"+
+		      "<input type='hidden',name=id value="+rs.getInt("id")+"><br>"+
+		      "Username:<input type='text' name=username,value='"+rs.getString("username")+"'><br>"+
+		      "Password:<input type='password' name=password,value='"+rs.getString("password")+"'><br>"+
+		      "Email:<input type=text name=email value="+rs.getString("email")+"><br>"+
+		      " Name:<input type=text name=name value="+rs.getString("name")+"><br>"+
+		       "<input type='submit', value=Update>"+
+		   "</form></h4>");
+			    }
+		
+	}
+		 catch (ClassNotFoundException | SQLException e) {
+				// TODO Auto-generated catch block
+				pw.println("Edit failed"); 
+				e.printStackTrace();
+
+}
+	}
+}

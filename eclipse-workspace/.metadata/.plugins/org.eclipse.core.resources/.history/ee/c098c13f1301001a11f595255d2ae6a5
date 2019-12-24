@@ -1,0 +1,10 @@
+
+public class TicketBookingThread extends Thread {
+ private String ticket_Booker_name;
+ private int no_of_seats_to_book;
+public TicketBookingThread(String ticket_Booker_name, int no_of_seats_to_book) {
+	this.ticket_Booker_name = ticket_Booker_name;
+	this.no_of_seats_to_book = no_of_seats_to_book;
+}
+ 
+}

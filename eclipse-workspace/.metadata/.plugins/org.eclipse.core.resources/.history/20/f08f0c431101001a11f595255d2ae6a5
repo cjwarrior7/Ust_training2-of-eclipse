@@ -1,0 +1,8 @@
+
+public synchronized class GetTicket {
+	int available_tickets=110;
+	
+public static void getmyticket(String ticket_booker_name,int no_of_tickets_to_book) {
+	if((available_tickets>no_of_tickets_to_book)&& ava)
+}
+}

@@ -1,0 +1,16 @@
+package com.client;
+
+import com.company.*;
+
+
+public class Client {
+	public static void main(String[] args) {
+		Connection user=DriverDB.getConnection("Mysql");
+        System.out.println(user);
+		user.create();
+		user.read();
+		user.update();
+		user.delete();
+	}
+
+}

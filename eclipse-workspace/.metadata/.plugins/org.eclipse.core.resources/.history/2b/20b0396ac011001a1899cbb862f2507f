@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>registration</title>
+</head>
+<body>
+<form>
+   name:<br>
+  <input type="text" name="name"><br>
+  Age:<br>
+  <input type="text" name="age"><br>
+   yop:<br>
+  <input type="text" name="yop"><br>
+   stream:<br>
+  <input type="text" name="stream"><br>
+  contact:<br>
+  <input type="text" name="stream"><br>
+</form>
+
+
+</body>
+</html>

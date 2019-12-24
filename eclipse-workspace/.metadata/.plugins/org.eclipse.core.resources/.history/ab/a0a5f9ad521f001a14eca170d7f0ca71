@@ -1,0 +1,57 @@
+package com.company.retailer;
+
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.sql.Connection;
+import java.sql.DriverManager;
+import java.sql.PreparedStatement;
+import java.sql.ResultSet;
+import java.sql.SQLException;
+
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+
+@WebServlet("/SearchServlet")
+public class SearchServlet extends HttpServlet {
+
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		 response.setContentType("text/html");
+			String spid=request.getParameter("pid");
+		    PrintWriter pw=response.getWriter();
+			System.out.println(spid);
+			int pid=Integer.parseInt(spid);
+			
+		 pw.print("<h1 align='center'>VIEW PRODUCT BY ID</h1>");
+		 
+		//============jdbc===========//
+				try {
+					Class.forName("com.mysql.jdbc.Driver");
+					Connection con=DriverManager.getConnection("jdbc:mysql://localhost:3306/my_testdb_adv_java?user=root&password=root");
+					PreparedStatement pst=con.prepareStatement("select * from product where pid=?");
+					pst.setInt(1, pid);
+					
+					ResultSet rs=pst.executeQuery();
+					pw.print("<table align='center' border='2'><tr><th>Pid</th><th>Pname</th><th>Price</th> </tr>");
+					if (rs.next()) {
+						pw.print("<tr><td>"+rs.getInt("pid")+"</td> <td>"+rs.getString("pname")+"</td> <td>"+rs.getDouble("price")+"</td></tr>");
+						pw.print("</table>");
+						}
+					
+					else {
+						pw.print("<br><h2>no product found with this id</h2>");
+					}
+					
+					
+					
+				} catch (ClassNotFoundException | SQLException e) {
+					e.printStackTrace();
+				}	
+	}
+
+	
+
+}

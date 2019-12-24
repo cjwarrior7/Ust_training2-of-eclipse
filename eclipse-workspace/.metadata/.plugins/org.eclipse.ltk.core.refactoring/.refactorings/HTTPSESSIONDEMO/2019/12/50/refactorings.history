@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;com.company.session.Logout&apos; to &apos;LogoutServlet&apos;&#x0A;- Original project: &apos;HTTPSESSIONDEMO&apos;&#x0A;- Original element: &apos;com.company.session.Logout&apos;&#x0A;- Renamed element: &apos;com.company.session.LogoutServlet&apos;&#x0A;- Update references to refactored element&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;Logout&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;com.company.session{Logout.java[Logout" matchStrategy="1" name="LogoutServlet" qualified="false" references="true" similarDeclarations="false" stamp="1576063481921" textual="false" version="1.0"/>
+</session>

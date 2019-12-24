@@ -1,0 +1,4 @@
+browser-choice=1
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="2">\n<system/>\n<external location\="/usr/bin/firefox" name\="Firefox"/>\n<external location\="/usr/bin/google-chrome" name\="Chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=file\:///home/cjwarrior7/eclipse-workspace/StudMangSystem/images/sampleStudent.jpeg|*|file\:/home/cjwarrior7/eclipse-workspace/StudMangSystem/images/sampleStudent.jpeg|*|http\://localhost\:8080/MyDemoLogin/Login.html|*|http\://localhost\:8080/MyDemoLogin/|*|http\://localhost\:8080/MyDemoLogin/register.html|*|http\://localhost\:8086/MySampleWeb/Login.html|*|http\://localhost\:8086/MySampleWeb/register.html|*|http\://localhost\:8086/MySampleWeb/|*|http\://localhost\:8086/MySampleWeb/l1|*|http\://localhost\:8080/MySampleWeb/l1|*|http\://localhost\:8080/MySampleWeb/l1/|*|http\://localhost\:8080/MySampleWeb/|*|

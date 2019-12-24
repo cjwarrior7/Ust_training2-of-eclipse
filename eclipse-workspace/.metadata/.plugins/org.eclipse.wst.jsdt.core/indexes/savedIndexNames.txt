@@ -1,0 +1,18 @@
+INDEX VERSION 1.4+/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+3424285745.index
+3579276893.index
+1200293792.index
+55947572.index
+2615674975.index
+3667923667.index
+3146243809.index
+2496287414.index
+1767971364.index
+852672496.index
+2746025771.index
+2665105110.index
+1981708033.index
+2723314149.index
+811580208.index
+3488760022.index
+3262807998.index
