@@ -1,0 +1,24 @@
+package com.company.shop;
+
+import java.util.Scanner;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class Product_infoDAO {
+	public static void main(String[] args) {
+		
+	
+	Configuration cfg=new Configuration();
+	cfg.configure();
+	SessionFactory sf=cfg.buildSessionFactory();
+	Session ss=sf.openSession();
+	Scanner sc=new Scanner(System.in);
+	int options=sc.nextInt();
+	
+	
+	
+	
+}
+}

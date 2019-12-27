@@ -1,0 +1,26 @@
+package com.company.relation;
+
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.cfg.Configuration;
+
+public class OneToOneDAO {
+	private void psvm() {
+		// TODO Auto-generated method stub
+		Configuration cfg=new Configuration();
+		cfg.configure();
+		SessionFactory sf=cfg.buildSessionFactory();
+		Session ss=sf.openSession();
+		EngineDTO engineDTO=new EngineDTO();
+		CarDTO carDTO=new CarDTO();
+		carDTO.setcarname("MG HECTOR");
+		carDTO.setEngi(engineDTO);
+		ss.save(carDTO);
+		ss.beginTransaction().commit();
+		ss.close();
+		sf.close();
+		
+
+	}
+
+}
