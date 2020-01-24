@@ -1,9 +1,0 @@
-package com.company.one2many;
-
-import java.io.Serializable;
-
-public class Faculty implements Serializable {
-	@Id
-	
-
-}

@@ -1,0 +1,86 @@
+package com.company.spring.daolayer;
+import javax.servlet.http.HttpSession;
+
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import com.company.spring.model.EmailDT0;
+import com.company.spring.model.UserDTO;
+
+
+@Component
+public class MyDaoImp implements MyDao {
+	  @Autowired
+      SessionFactory sf;
+	  String email;
+	@Override
+	public boolean register(UserDTO dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		Criteria cr=ss.createCriteria(UserDTO.class);
+		cr.add(Restrictions.eq("Email",dto.getEmail()));
+		UserDTO mdto=(UserDTO)cr.uniqueResult();
+		if(mdto!=null) {
+			return false;
+		}
+		else {
+			ss.save(dto);
+			ss.beginTransaction().commit();
+			ss.close();
+			return true;
+		}
+		
+	}
+
+	@Override
+	public boolean login(UserDTO dto,HttpSession session) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		email=(String) session.getAttribute("email");
+		Criteria cr=ss.createCriteria(UserDTO.class);
+		cr.add(Restrictions.eq("Email",dto.getEmail()));
+		cr.add(Restrictions.eq("Password",dto.getPassword()));
+		UserDTO mdto=(UserDTO)cr.uniqueResult();
+		if(mdto!=null) {
+			return true;
+		}
+		else {
+			return false;
+		}
+		
+	}
+
+	@Override
+	public boolean compose(EmailDT0 dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+	   
+		System.out.println("sender:"+email);
+		dto.setSender(email);
+		Criteria cr=ss.createCriteria(EmailDT0.class);
+		EmailDT0 edto=(EmailDT0)cr.uniqueResult();
+		if(edto!=null) {
+			ss.save(dto);
+			ss.beginTransaction().commit();
+			ss.close();
+			return true;
+			
+		}
+		else {
+			return false;
+		}
+		
+	}
+
+
+
+	
+  
+}

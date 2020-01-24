@@ -1,0 +1,11 @@
+package com.company.spring.service;
+
+import com.company.spring.model.UserDTO;
+
+public interface MyService {
+	void register(UserDTO dto);
+	boolean login(UserDTO dto);
+	
+	
+
+}

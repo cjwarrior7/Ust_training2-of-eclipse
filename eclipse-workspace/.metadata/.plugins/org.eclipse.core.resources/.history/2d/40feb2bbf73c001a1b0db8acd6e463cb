@@ -1,0 +1,11 @@
+package com.company.spring.daolayer;
+
+
+import com.company.spring.model.UserDTO;
+
+public interface MyDao {
+	void register(UserDTO dto);
+	boolean login(UserlDTO dto);
+	
+	
+}

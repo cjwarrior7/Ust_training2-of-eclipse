@@ -1,0 +1,6 @@
+package com.company.spring.service;
+
+public interface MyService  {
+	
+
+}

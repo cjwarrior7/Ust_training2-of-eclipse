@@ -124,7 +124,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/StudMangSystem" path="/StudMangSystem" reloadable="true" source="org.eclipse.jst.jee.server:StudMangSystem"/><Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/CRUD" path="/CRUD" reloadable="true" source="org.eclipse.jst.jee.server:CRUD"/><Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/HTTPSESSIONDEMO" path="/HTTPSESSIONDEMO" reloadable="true" source="org.eclipse.jst.jee.server:HTTPSESSIONDEMO"/><Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/RetailerMaintenanceSystem" path="/RetailerMaintenanceSystem" reloadable="true" source="org.eclipse.jst.jee.server:RetailerMaintenanceSystem"/></Host>
+      <Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/ROOT" path="" reloadable="false"/><Context docBase="/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.wst.server.core/tmp0/wtpwebapps/EmailMVCSpring" path="/EmailMVCSpring" reloadable="true" source="org.eclipse.jst.jee.server:EmailMVCSpring"/></Host>
     </Engine>
   </Service>
 </Server>

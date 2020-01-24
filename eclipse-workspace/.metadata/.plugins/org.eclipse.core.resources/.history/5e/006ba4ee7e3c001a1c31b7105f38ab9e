@@ -1,0 +1,43 @@
+package com.company.spring.DaoLayer;
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+import com.company.spring.Model.ModelDTO;
+@Component
+public class MyDaoImp implements MyDao {
+	  @Autowired
+      SessionFactory sf;
+	@Override
+	public void register(ModelDTO dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		ss.save(dto);
+		ss.beginTransaction().commit();
+		ss.close();
+		
+		
+	}
+
+	@Override
+	public boolean login(ModelDTO dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.opensession();
+		Criteria cr=ss.createCriteria(ModelDTO.class);
+		cr.add(Restrictions.eq("username",dto.getEmail()));
+		cr.add(Restrictions.eq("password",dto.getPassword()));
+		ModelDTO mdto=(ModelDTO)cr.uniqueResult();
+		if(mdto!=null) {
+			return true;
+		}
+		else {
+			return false;
+		}
+		
+	}
+  
+}

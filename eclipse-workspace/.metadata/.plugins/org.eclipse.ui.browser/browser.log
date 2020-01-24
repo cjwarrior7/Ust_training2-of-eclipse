@@ -10368,3 +10368,734 @@ Dec 16, 2019 22:49:07.82 [9555:9624:1216/224907.603148:ERROR:latency_info.cc(149
 Dec 16, 2019 22:49:09.64 [9555:9624:1216/224909.453292:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
 Dec 16, 2019 22:49:11.13 [9555:9624:1216/224911.136451:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
 Dec 16, 2019 22:50:14.12 [9520:9540:1216/225012.791765:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+
+Jan 07, 2020 14:28:58.04 NEW SESSION
+Jan 07, 2020 14:28:58.04 [5025:5046:0107/142858.040141:ERROR:browser_process_sub_thread.cc(221)] Waited 4 ms for network service
+Jan 07, 2020 14:28:58.22 Opening in existing browser session.
+Jan 07, 2020 15:19:37.09 [6289:6289:0107/151937.093854:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 15:19:38.48 [6246:6266:0107/151938.484015:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2020 15:19:38.53 [6289:6289:0107/151938.530554:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 07, 2020 15:20:06.34 [6246:6266:0107/152006.348734:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2020 15:20:10.66 [6246:6246:0107/152010.660159:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 07, 2020 15:20:59.28 [6246:6266:0107/152059.288259:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2020 15:22:31.10 [6246:6266:0107/152231.107962:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2020 15:22:39.20 [6692:6692:0107/152239.206031:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 15:22:39.24 [6654:6675:0107/152239.247643:ERROR:browser_process_sub_thread.cc(221)] Waited 1 ms for network service
+Jan 07, 2020 15:22:39.39 Opening in existing browser session.
+Jan 07, 2020 15:24:32.81 [6246:6246:0107/152432.819084:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 07, 2020 15:25:02.48 [6246:6246:0107/152502.482445:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 07, 2020 15:25:10.77 [6933:6933:0107/152510.771190:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 15:25:10.91 Opening in existing browser session.
+Jan 07, 2020 15:25:29.31 [6246:6266:0107/152529.310566:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 07, 2020 15:25:50.86 [6246:6246:0107/152550.867088:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 07, 2020 15:27:40.84 [6246:6246:0107/152740.845105:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 07, 2020 15:27:45.79 Opening in existing browser session.
+Jan 07, 2020 15:28:01.26 [6246:6246:0107/152801.268177:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 07, 2020 15:28:01.75 [6246:6266:0107/152801.752489:ERROR:browser_process_sub_thread.cc(221)] Waited 323 ms for network service
+Jan 07, 2020 15:29:17.63 [7717:7737:0107/152917.635230:ERROR:browser_process_sub_thread.cc(221)] Waited 3 ms for network service
+Jan 07, 2020 15:29:17.71 Opening in existing browser session.
+Jan 07, 2020 15:32:56.37 [8107:8107:0107/153256.375659:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 15:32:56.44 [8064:8084:0107/153256.440669:ERROR:browser_process_sub_thread.cc(221)] Waited 8 ms for network service
+Jan 07, 2020 15:32:56.54 Opening in existing browser session.
+Jan 07, 2020 15:36:00.76 [8333:8333:0107/153600.762106:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 15:36:00.85 [8290:8310:0107/153600.851393:ERROR:browser_process_sub_thread.cc(221)] Waited 9 ms for network service
+Jan 07, 2020 15:36:00.92 Opening in existing browser session.
+Jan 07, 2020 16:08:03.54 [9595:9615:0107/160803.549593:ERROR:browser_process_sub_thread.cc(221)] Waited 6 ms for network service
+Jan 07, 2020 16:08:03.68 Opening in existing browser session.
+Jan 07, 2020 21:26:11.64 [15762:15762:0107/212611.610850:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 21:26:12.08 [15724:15746:0107/212612.083615:ERROR:browser_process_sub_thread.cc(221)] Waited 10 ms for network service
+Jan 07, 2020 21:26:12.15 Opening in existing browser session.
+Jan 07, 2020 21:32:29.40 [16077:16098:0107/213229.406673:ERROR:browser_process_sub_thread.cc(221)] Waited 9 ms for network service
+Jan 07, 2020 21:32:29.78 Opening in existing browser session.
+Jan 07, 2020 22:19:47.48 [17371:17371:0107/221947.436997:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 22:19:48.14 [17331:17354:0107/221948.145369:ERROR:browser_process_sub_thread.cc(221)] Waited 396 ms for network service
+Jan 07, 2020 22:19:48.18 Opening in existing browser session.
+Jan 07, 2020 23:08:48.41 [19286:19286:0107/230848.407281:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 07, 2020 23:08:48.81 [19248:19269:0107/230848.815543:ERROR:browser_process_sub_thread.cc(221)] Waited 7 ms for network service
+Jan 07, 2020 23:08:48.96 Opening in existing browser session.
+Jan 07, 2020 23:17:26.32 [19871:19891:0107/231726.320149:ERROR:browser_process_sub_thread.cc(221)] Waited 225 ms for network service
+Jan 07, 2020 23:17:26.42 Opening in existing browser session.
+Jan 07, 2020 23:22:04.31 [20365:20385:0107/232204.313526:ERROR:browser_process_sub_thread.cc(221)] Waited 10 ms for network service
+Jan 07, 2020 23:22:04.48 Opening in existing browser session.
+Jan 07, 2020 23:29:37.72 [20691:20712:0107/232937.723324:ERROR:browser_process_sub_thread.cc(221)] Waited 10 ms for network service
+Jan 07, 2020 23:29:37.93 Opening in existing browser session.
+Jan 07, 2020 23:32:31.06 [20931:20952:0107/233231.067772:ERROR:browser_process_sub_thread.cc(221)] Waited 13 ms for network service
+Jan 07, 2020 23:32:31.36 Opening in existing browser session.
+Jan 07, 2020 23:45:42.08 [21661:21682:0107/234541.970276:ERROR:browser_process_sub_thread.cc(221)] Waited 12 ms for network service
+Jan 07, 2020 23:45:42.18 Opening in existing browser session.
+Jan 08, 2020 11:05:55.07 [24049:24049:0108/110554.954195:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 08, 2020 11:05:57.69 [24012:24012:0108/110557.694959:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Invalid credentials (credentials rejected by client).
+Jan 08, 2020 11:05:57.76 [24049:24049:0108/110557.766857:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 08, 2020 11:06:00.69 [24054:24062:0108/110600.689935:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for ssl.google-analytics.com failed err=-8172
+Jan 08, 2020 11:06:00.69 [24054:24057:0108/110600.689942:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for accounts.google.com failed err=-8172
+Jan 08, 2020 11:06:00.69 [24054:24061:0108/110600.690301:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for clientservices.googleapis.com failed err=-8172
+Jan 08, 2020 11:06:00.69 [24054:24058:0108/110600.691566:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:00.69 [24054:24058:0108/110600.691970:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:00.69 [24054:24058:0108/110600.692222:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:01.61 [24054:24058:0108/110601.609954:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:02.21 [24054:24061:0108/110602.217888:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8172
+Jan 08, 2020 11:06:02.21 [24054:24058:0108/110602.218434:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:02.28 [24054:24061:0108/110602.283376:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for docs.google.com failed err=-8172
+Jan 08, 2020 11:06:02.28 [24054:24058:0108/110602.283507:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:02.43 [24054:24058:0108/110602.430219:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:03.25 [24054:24062:0108/110603.254113:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for ssl.gstatic.com failed err=-8172
+Jan 08, 2020 11:06:03.25 [24054:24058:0108/110603.254347:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:03.25 [24054:24058:0108/110603.254464:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:04.32 [24054:24058:0108/110604.321225:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:05.41 [24054:24061:0108/110605.409868:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for clients4.google.com failed err=-8172
+Jan 08, 2020 11:06:05.41 [24054:24058:0108/110605.411066:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:08.98 [24054:24058:0108/110608.981620:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:09.16 [24054:24061:0108/110609.161299:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for clients2.google.com failed err=-8172
+Jan 08, 2020 11:06:09.16 [24054:24058:0108/110609.161905:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:10.98 [24054:24058:0108/110610.988147:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:11.59 [24054:24058:0108/110611.599367:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:12.25 [24054:24058:0108/110612.252820:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:12.62 [24054:24058:0108/110612.628029:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:14.67 [24054:24058:0108/110614.673146:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:16.63 [24054:24058:0108/110616.638731:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:21.05 [24054:24058:0108/110621.054282:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:22.27 [24054:24058:0108/110622.270200:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:25.90 [24054:24058:0108/110625.903272:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:28.94 [24012:24034:0108/110628.943595:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -118
+Jan 08, 2020 11:06:31.24 [24054:24058:0108/110631.246432:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:36.17 [24054:24058:0108/110636.177958:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:37.08 [24054:24058:0108/110637.082249:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:37.22 [24054:24058:0108/110637.223003:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:43.67 [24054:24058:0108/110643.678172:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:50.40 [24054:24061:0108/110650.409550:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for clientservices.googleapis.com failed err=-8172
+Jan 08, 2020 11:06:50.40 [24054:24058:0108/110650.409761:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:50.77 [24054:24058:0108/110650.774462:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:51.31 [24054:24061:0108/110651.312669:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for mtalk.google.com failed err=-8172
+Jan 08, 2020 11:06:51.31 [24054:24058:0108/110651.316093:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:51.31 [24012:24034:0108/110651.316365:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -202
+Jan 08, 2020 11:06:56.00 [24054:24058:0108/110656.008172:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:58.57 [24054:24058:0108/110658.575472:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:58.95 [24054:24062:0108/110658.951698:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for www.google.com failed err=-8172
+Jan 08, 2020 11:06:58.95 [24054:24058:0108/110658.951915:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:58.99 [24054:24058:0108/110658.998219:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:59.02 [24054:24058:0108/110659.024289:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:06:59.04 [24054:24058:0108/110659.041072:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:01.19 [24054:24058:0108/110701.193276:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:01.19 [24054:24058:0108/110701.194025:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.62 [24054:24058:0108/110706.623757:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.68 [24054:24058:0108/110706.681652:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.71 [24054:24062:0108/110706.712573:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for beacons.gcp.gvt2.com failed err=-8172
+Jan 08, 2020 11:07:06.71 [24054:24058:0108/110706.712735:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.71 [24054:24058:0108/110706.713045:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.74 [24054:24058:0108/110706.740809:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.76 [24054:24058:0108/110706.764751:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.77 [24054:24062:0108/110706.774054:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for beacons.gvt2.com failed err=-8172
+Jan 08, 2020 11:07:06.77 [24054:24058:0108/110706.775032:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.77 [24054:24058:0108/110706.775714:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.86 [24054:24058:0108/110706.861285:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.86 [24054:24058:0108/110706.862347:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.88 [24054:24062:0108/110706.888935:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for beacons2.gvt2.com failed err=-8172
+Jan 08, 2020 11:07:06.88 [24054:24058:0108/110706.889268:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.89 [24054:24058:0108/110706.892663:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:06.94 [24054:24062:0108/110706.941294:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for 192.168.1.1 failed err=-8172
+Jan 08, 2020 11:07:06.94 [24054:24058:0108/110706.941462:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.01 [24054:24058:0108/110707.013885:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.01 [24054:24058:0108/110707.014058:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.02 [24054:24058:0108/110707.021843:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.04 [24054:24062:0108/110707.040564:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for beacons3.gvt2.com failed err=-8172
+Jan 08, 2020 11:07:07.04 [24054:24058:0108/110707.040703:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.04 [24054:24058:0108/110707.040754:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.06 [24054:24058:0108/110707.059912:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:07.16 [24054:24058:0108/110707.164554:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:11.18 [24054:24058:0108/110711.186459:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:11.23 [24054:24058:0108/110711.230077:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:16.73 [24054:24058:0108/110716.732479:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:21.33 [24054:24058:0108/110721.337664:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:21.34 [24054:24058:0108/110721.341943:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:21.37 [24054:24061:0108/110721.372855:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for beacons4.gvt2.com failed err=-8172
+Jan 08, 2020 11:07:21.37 [24054:24058:0108/110721.373404:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:21.37 [24054:24058:0108/110721.373626:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:27.11 [24054:24058:0108/110727.111395:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:38.52 [24054:24058:0108/110738.529085:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:51.08 [24054:24058:0108/110751.088811:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:52.11 [24054:24061:0108/110752.117003:ERROR:cert_verify_proc_nss.cc(969)] CERT_PKIXVerifyCert for safebrowsing.googleapis.com failed err=-8172
+Jan 08, 2020 11:07:52.11 [24054:24058:0108/110752.117563:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:07:56.37 [24054:24058:0108/110756.376253:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -202
+Jan 08, 2020 11:08:19.53 [24012:24034:0108/110819.535677:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -4
+Jan 08, 2020 11:08:20.57 [24012:24012:0108/110820.578022:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2020 11:08:45.83 [24012:24012:0108/110845.838380:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 08, 2020 11:11:58.81 [24049:24126:0108/111158.808686:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jan 08, 2020 11:11:58.85 [24049:24126:0108/111158.826584:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 101 is too big.
+Jan 08, 2020 11:12:24.24 [24049:24126:0108/111224.242267:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:12:24.26 [24049:24126:0108/111224.259909:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:12:25.09 [24049:24126:0108/111225.092151:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:12:25.11 [24049:24126:0108/111225.110690:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:12:25.95 [1:4:0108/111225.957191:ERROR:mojo_audio_output_ipc.cc(183)] MojoAudioOutputIPC failed to acquire factory
+Jan 08, 2020 11:12:26.00 [1:4:0108/111226.009269:ERROR:mojo_audio_output_ipc.cc(183)] MojoAudioOutputIPC failed to acquire factory
+Jan 08, 2020 11:24:48.00 [24012:24012:0108/112448.002419:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_411652767&key=21ef897172770ca75d&t=1578462888001' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-MrfzPdnHkyVrQiGCyAoXRQ' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:24:48.00 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:24:48.00 [24012:24012:0108/112448.003684:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_411652767&key=21ef897172770ca75d&t=1578462888001' because it violates the following Content Security Policy directive: "script-src 'nonce-MrfzPdnHkyVrQiGCyAoXRQ' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:24:48.00 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:27:57.44 [24049:24126:0108/112757.442250:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:57.95 [24049:24126:0108/112757.956431:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:58.49 [24049:24126:0108/112758.491987:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:58.70 [24049:24126:0108/112758.701153:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:58.87 [24049:24126:0108/112758.873094:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:59.52 [24049:24126:0108/112759.523858:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:59.59 [24049:24126:0108/112759.590977:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:27:59.76 [24049:24126:0108/112759.760017:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:00.61 [24049:24126:0108/112800.613613:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:01.07 [24049:24126:0108/112801.072650:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:01.12 [24049:24126:0108/112801.127541:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:01.47 [24049:24126:0108/112801.477090:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:05.24 [24049:24126:0108/112805.247711:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:05.30 [24049:24126:0108/112805.307977:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:05.32 [24049:24126:0108/112805.323557:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:06.21 [24049:24126:0108/112806.216580:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:07.05 [24049:24126:0108/112807.058856:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:07.92 [24049:24126:0108/112807.927355:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:08.10 [24049:24126:0108/112808.109160:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:08.86 [24049:24126:0108/112808.861713:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:09.05 [24049:24126:0108/112809.058189:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:09.76 [24049:24126:0108/112809.760857:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:10.07 [24049:24126:0108/112810.073023:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:11.09 [24049:24126:0108/112811.094516:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:11.37 [24049:24126:0108/112811.374553:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:11.94 [24049:24126:0108/112811.945612:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:12.22 [24049:24126:0108/112812.228666:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:28:13.49 [24049:24126:0108/112813.495878:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:29:38.68 [26196:26196:0108/112938.684357:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 08, 2020 11:29:39.05 [26161:26181:0108/112939.058657:ERROR:browser_process_sub_thread.cc(221)] Waited 5 ms for network service
+Jan 08, 2020 11:29:39.26 Opening in existing browser session.
+Jan 08, 2020 11:33:15.75 [24012:24012:0108/113315.755631:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_932904099&key=21ef897172770ca75d&t=1578463395754' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-wuJq6MYdJpgf1FCSP/JtIw' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:33:15.75 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:33:15.75 [24012:24012:0108/113315.757282:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_932904099&key=21ef897172770ca75d&t=1578463395754' because it violates the following Content Security Policy directive: "script-src 'nonce-wuJq6MYdJpgf1FCSP/JtIw' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:33:15.75 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:34:54.18 [24049:24126:0108/113454.187701:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:55.19 [24049:24126:0108/113455.195344:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:56.36 [24049:24126:0108/113456.361993:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:56.38 [24049:24126:0108/113456.386511:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:57.22 [24049:24126:0108/113457.228773:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:57.32 [24049:24126:0108/113457.325257:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:58.07 [24049:24126:0108/113458.070234:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:58.96 [24049:24126:0108/113458.959782:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:59.20 [24049:24126:0108/113459.208947:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:34:59.80 [24049:24126:0108/113459.803090:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:00.12 [24049:24126:0108/113500.124489:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:00.72 [24049:24126:0108/113500.722003:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:01.14 [24049:24126:0108/113501.142634:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:02.38 [24049:24126:0108/113502.379301:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:03.40 [24049:24126:0108/113503.406500:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:04.58 [24049:24126:0108/113504.586645:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:05.09 [24049:24126:0108/113505.095800:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:05.45 [24049:24126:0108/113505.455898:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:06.30 [24049:24126:0108/113506.303698:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:07.17 [24049:24126:0108/113507.177329:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:07.92 [24049:24126:0108/113507.926764:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:08.04 [24049:24126:0108/113508.039401:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:08.99 [24049:24126:0108/113508.990002:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:09.95 [24049:24126:0108/113509.956516:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:10.88 [24049:24126:0108/113510.889795:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:11.91 [24049:24126:0108/113511.917065:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:13.53 [24049:24126:0108/113513.538214:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:14.55 [24049:24126:0108/113514.557150:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:15.49 [24049:24126:0108/113515.492976:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:16.72 [24049:24126:0108/113516.722709:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:17.72 [24049:24126:0108/113517.722698:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:18.77 [24049:24126:0108/113518.774845:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:35:20.31 [24049:24126:0108/113520.311071:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 08, 2020 11:36:08.51 [24049:24126:0108/113608.514634:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 104 is too big.
+Jan 08, 2020 11:36:45.43 [24012:24012:0108/113645.433990:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_206689189&key=21ef897172770ca75d&t=1578463605433' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-JCaT7tpzov/OIBoCkuLErw' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:36:45.43 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:36:45.43 [24012:24012:0108/113645.435171:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_206689189&key=21ef897172770ca75d&t=1578463605433' because it violates the following Content Security Policy directive: "script-src 'nonce-JCaT7tpzov/OIBoCkuLErw' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 08, 2020 11:36:45.43 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 08, 2020 11:37:18.49 [24054:24058:0108/113718.499618:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 08, 2020 11:37:18.50 [24054:24058:0108/113718.499782:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 08, 2020 11:37:34.08 [24054:24058:0108/113734.088631:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 08, 2020 11:37:35.31 [24054:24058:0108/113735.315680:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 08, 2020 11:48:54.13 [24012:24034:0108/114854.139742:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 11:56:41.43 [24012:24034:0108/115641.435144:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 12:12:07.63 [24012:24034:0108/121207.632791:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 08, 2020 12:12:41.90 [24012:24034:0108/121241.899897:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -118
+Jan 08, 2020 12:14:20.28 [24012:24034:0108/121420.287423:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 12:18:05.59 [24012:24034:0108/121805.590661:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 12:24:47.94 [24012:24034:0108/122447.944944:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 12:24:52.93 [24012:24012:0108/122452.933050:ERROR:textfield.cc(1758)] Not implemented reached in virtual bool views::Textfield::ShouldDoLearning()
+Jan 08, 2020 12:34:47.94 [24012:24034:0108/123447.948349:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 08, 2020 12:55:30.23 [24012:24012:0108/125530.233858:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 08, 2020 12:55:30.72 [24012:24034:0108/125530.721635:ERROR:browser_process_sub_thread.cc(221)] Waited 323 ms for network service
+
+Jan 16, 2020 22:47:46.34 NEW SESSION
+Jan 16, 2020 22:47:46.34 [16681:16681:0116/224746.327418:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 16, 2020 22:47:46.45 Opening in existing browser session.
+Jan 16, 2020 22:47:46.45 [16641:16664:0116/224746.428744:ERROR:browser_process_sub_thread.cc(221)] Waited 1332 ms for network service
+Jan 17, 2020 24:55:20.66 [22159:22159:0117/005520.643745:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 17, 2020 24:55:20.73 [22124:22144:0117/005520.739462:ERROR:browser_process_sub_thread.cc(221)] Waited 6 ms for network service
+Jan 17, 2020 24:55:20.82 Opening in existing browser session.
+Jan 17, 2020 24:57:18.38 [22593:22593:0117/005718.389631:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 17, 2020 24:57:18.45 [22551:22572:0117/005718.454684:ERROR:browser_process_sub_thread.cc(221)] Waited 14 ms for network service
+Jan 17, 2020 24:57:18.62 Opening in existing browser session.
+Jan 17, 2020 01:07:20.58 [23165:23185:0117/010720.582069:ERROR:browser_process_sub_thread.cc(221)] Waited 10 ms for network service
+Jan 17, 2020 01:07:20.69 Opening in existing browser session.
+Jan 17, 2020 01:10:41.63 [23444:23464:0117/011041.637925:ERROR:browser_process_sub_thread.cc(221)] Waited 8 ms for network service
+Jan 17, 2020 01:10:41.76 Opening in existing browser session.
+Jan 17, 2020 01:38:25.87 [24528:24548:0117/013825.868847:ERROR:browser_process_sub_thread.cc(221)] Waited 6 ms for network service
+Jan 17, 2020 01:38:26.00 Opening in existing browser session.
+Jan 17, 2020 02:04:24.04 [25409:25429:0117/020424.040491:ERROR:browser_process_sub_thread.cc(221)] Waited 12 ms for network service
+Jan 17, 2020 02:04:24.17 Opening in existing browser session.
+
+Jan 22, 2020 24:35:51.28 NEW SESSION
+Jan 22, 2020 24:35:51.28 [12486:12508:0122/003550.878179:ERROR:browser_process_sub_thread.cc(221)] Waited 2881 ms for network service
+Jan 22, 2020 24:35:51.32 Opening in existing browser session.
+Jan 22, 2020 24:40:02.65 [12800:12823:0122/004002.619433:ERROR:browser_process_sub_thread.cc(221)] Waited 1570 ms for network service
+Jan 22, 2020 24:40:02.74 Opening in existing browser session.
+Jan 22, 2020 24:54:30.65 [13468:13492:0122/005430.353328:ERROR:browser_process_sub_thread.cc(221)] Waited 3930 ms for network service
+Jan 22, 2020 24:54:30.85 Opening in existing browser session.
+
+Jan 22, 2020 01:07:55.53 NEW SESSION
+Jan 22, 2020 01:07:55.53 [2538:2538:0122/010755.524234:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2020 01:08:05.62 [2538:2538:0122/010805.629435:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 01:39:10.74 [2502:2502:0122/013910.731828:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_256569131&key=21ef897172770ca75d&t=1579637350731' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-9r+qAaQ8AtNr/qkQMgKkDw' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 01:39:10.79 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 01:39:10.79 [2502:2502:0122/013910.758135:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_256569131&key=21ef897172770ca75d&t=1579637350731' because it violates the following Content Security Policy directive: "script-src 'nonce-9r+qAaQ8AtNr/qkQMgKkDw' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 01:39:10.79 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 02:31:10.64 [5056:5078:0122/023110.153868:ERROR:browser_process_sub_thread.cc(221)] Waited 783 ms for network service
+Jan 22, 2020 02:31:10.77 Opening in existing browser session.
+Jan 22, 2020 02:35:30.91 [5389:5389:0122/023530.721064:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2020 02:35:35.11 [5350:5374:0122/023535.115923:ERROR:browser_process_sub_thread.cc(221)] Waited 1569 ms for network service
+Jan 22, 2020 02:35:35.12 Opening in existing browser session.
+Jan 22, 2020 02:41:39.26 [5824:5844:0122/024139.264063:ERROR:browser_process_sub_thread.cc(221)] Waited 10 ms for network service
+Jan 22, 2020 02:41:39.40 Opening in existing browser session.
+Jan 22, 2020 02:45:07.90 [6106:6127:0122/024507.905509:ERROR:browser_process_sub_thread.cc(221)] Waited 6 ms for network service
+Jan 22, 2020 02:45:08.06 Opening in existing browser session.
+Jan 22, 2020 02:47:12.80 [6349:6370:0122/024712.806250:ERROR:browser_process_sub_thread.cc(221)] Waited 43 ms for network service
+Jan 22, 2020 02:47:13.25 Opening in existing browser session.
+Jan 22, 2020 02:47:23.67 [2538:2538:0122/024723.675173:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 02:47:29.51 [2538:2538:0122/024729.517363:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+Jan 22, 2020 11:26:33.53 NEW SESSION
+Jan 22, 2020 11:26:33.53 [2736:2736:0122/112633.531219:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2020 11:26:41.59 [2736:2736:0122/112641.598557:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 11:27:19.56 [2736:2736:0122/112719.562193:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 11:32:39.06 [2700:2700:0122/113239.062380:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 22, 2020 11:32:39.56 [2700:2721:0122/113239.561223:ERROR:browser_process_sub_thread.cc(221)] Waited 76 ms for network service
+Jan 22, 2020 12:56:58.12 [5392:5437:0122/125658.050274:ERROR:browser_process_sub_thread.cc(221)] Waited 785 ms for network service
+Jan 22, 2020 12:56:58.27 Opening in existing browser session.
+Jan 22, 2020 13:04:00.83 [5775:5775:0122/130400.770340:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2020 13:04:04.44 [5739:5761:0122/130404.445445:ERROR:browser_process_sub_thread.cc(221)] Waited 1306 ms for network service
+Jan 22, 2020 13:04:04.45 Opening in existing browser session.
+Jan 22, 2020 13:06:03.23 [6179:6200:0122/130603.233212:ERROR:browser_process_sub_thread.cc(221)] Waited 7 ms for network service
+Jan 22, 2020 13:06:03.52 Opening in existing browser session.
+Jan 22, 2020 15:43:40.45 [8874:8895:0122/154340.297380:ERROR:browser_process_sub_thread.cc(221)] Waited 1045 ms for network service
+Jan 22, 2020 15:43:40.59 Opening in existing browser session.
+Jan 22, 2020 18:47:57.54 [12593:12635:0122/184756.814911:ERROR:browser_process_sub_thread.cc(221)] Waited 2357 ms for network service
+Jan 22, 2020 18:47:57.65 Opening in existing browser session.
+Jan 22, 2020 18:52:31.86 Opening in existing browser session.
+
+Jan 22, 2020 22:05:03.97 NEW SESSION
+Jan 22, 2020 22:05:03.97 [2334:2334:0122/220503.968232:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 22, 2020 22:05:10.26 [2334:2334:0122/220510.264844:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 22:06:28.02 [2296:2416:0122/220628.028031:ERROR:persistent_memory_allocator.cc(845)] Corruption detected in shared-memory segment.
+Jan 22, 2020 22:11:32.37 [2334:2334:0122/221132.377166:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 22:11:51.32 [2334:2334:0122/221151.324630:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 22:13:08.66 [2296:2296:0122/221308.664618:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_15455495&key=21ef897172770ca75d&t=1579711388663' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-Kn35F7yccnb0JU82uAwJmQ' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 22:13:08.66 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 22:13:08.66 [2296:2296:0122/221308.665664:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_15455495&key=21ef897172770ca75d&t=1579711388663' because it violates the following Content Security Policy directive: "script-src 'nonce-Kn35F7yccnb0JU82uAwJmQ' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 22:13:08.66 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 22:18:52.82 [2334:2365:0122/221852.782239:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:18:54.11 [2334:2365:0122/221854.115834:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:18:54.98 [2334:2365:0122/221854.981750:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:18:59.79 [2334:2365:0122/221859.798371:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:19:01.88 [2334:2365:0122/221901.882917:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:19:05.73 [2334:2365:0122/221905.733310:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:19:06.58 [2334:2365:0122/221906.580531:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:10.68 [2334:2365:0122/222910.688545:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:11.53 [2334:2365:0122/222911.538351:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:12.43 [2334:2365:0122/222912.436059:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:13.30 [2334:2365:0122/222913.303306:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:14.32 [2334:2365:0122/222914.323846:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:15.17 [2334:2365:0122/222915.173234:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:16.02 [2334:2365:0122/222916.022000:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:16.95 [2334:2365:0122/222916.953983:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:17.82 [2334:2365:0122/222917.824671:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:18.78 [2334:2365:0122/222918.785964:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:19.92 [2334:2365:0122/222919.929037:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:24.22 [2334:2365:0122/222924.227299:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:25.37 [2334:2365:0122/222925.373086:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:26.69 [2334:2365:0122/222926.690973:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:27.53 [2334:2365:0122/222927.537180:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:28.38 [2334:2365:0122/222928.389423:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:29.23 [2334:2365:0122/222929.238333:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:30.25 [2334:2365:0122/222930.255413:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:31.15 [2334:2365:0122/222931.154241:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:32.00 [2334:2365:0122/222932.008767:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:32.94 [2334:2365:0122/222932.941335:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:33.79 [2334:2365:0122/222933.790494:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:34.73 [2334:2365:0122/222934.736576:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:29:35.89 [2334:2365:0122/222935.889957:ERROR:latency_info.cc(149)] Surface::TakeLatencyInfoFromFrame, LatencyInfo vector size 102 is too big.
+Jan 22, 2020 22:34:45.89 [2296:2296:0122/223445.897703:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_272862988&key=21ef897172770ca75d&t=1579712685897' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-iyMOH0zh6Ku2/ZR6dnQ4Bg' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 22:34:45.89 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 22:34:45.90 [2296:2296:0122/223445.898255:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_272862988&key=21ef897172770ca75d&t=1579712685897' because it violates the following Content Security Policy directive: "script-src 'nonce-iyMOH0zh6Ku2/ZR6dnQ4Bg' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 22, 2020 22:34:45.90 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 22, 2020 22:55:04.39 [2334:2334:0122/225504.308897:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 22:55:31.82 [2334:2334:0122/225531.820344:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 23:08:16.50 [2334:2334:0122/230816.500439:ERROR:gl_surface_presentation_helper.cc(260)] GetVSyncParametersIfAvailable() failed for 1 times!
+Jan 22, 2020 23:38:40.46 [6220:6246:0122/233840.406273:ERROR:browser_process_sub_thread.cc(221)] Waited 914 ms for network service
+Jan 22, 2020 23:38:40.60 Opening in existing browser session.
+Jan 22, 2020 23:46:13.02 [2334:2334:0122/234612.910533:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 23:46:24.19 [2334:2334:0122/234624.197905:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 22, 2020 23:46:56.71 [1:11:0122/234656.716592:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:46:56.74 [1:11:0122/234656.716955:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:48:18.96 [1:11:0122/234818.928369:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:48:18.96 [1:11:0122/234818.928458:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:49:10.83 [1:11:0122/234910.769925:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:49:10.88 [1:11:0122/234910.770273:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:50:16.87 [1:11:0122/235016.871043:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:50:16.91 [1:11:0122/235016.871138:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:50:33.12 [1:11:0122/235033.102827:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:50:33.12 [1:11:0122/235033.102917:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:50:36.52 [1:11:0122/235036.526287:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:50:36.52 [1:11:0122/235036.526372:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 22, 2020 23:51:37.83 [1:11:0122/235137.829566:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 22, 2020 23:51:37.83 [1:11:0122/235137.829786:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:00:53.52 [2296:2319:0123/000053.368306:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:03:55.54 [2296:2319:0123/000355.547707:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:05:26.39 [1:11:0123/000525.889257:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:05:26.46 [1:11:0123/000525.889642:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:07:44.91 [2296:2319:0123/000744.918454:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:18:13.72 [1:11:0123/001813.707965:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:18:13.78 [1:11:0123/001813.708055:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:18:23.91 [2296:2319:0123/001823.912049:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:19:12.89 [2296:2319:0123/001912.896887:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:23:37.19 [1:11:0123/002337.196063:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:23:37.19 [1:11:0123/002337.196167:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:24:02.08 [1:11:0123/002402.080556:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:24:02.08 [1:11:0123/002402.080649:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:24:06.49 [1:11:0123/002406.492980:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:24:06.49 [1:11:0123/002406.493064:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:24:10.94 [1:11:0123/002410.940733:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:24:10.94 [1:11:0123/002410.940831:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:24:12.93 [1:11:0123/002412.938538:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:24:12.96 [1:11:0123/002412.938644:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:25:04.04 [1:11:0123/002504.049730:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:25:04.05 [1:11:0123/002504.049824:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:25:07.74 [1:11:0123/002507.746373:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:25:07.74 [1:11:0123/002507.746460:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:26:07.73 [1:11:0123/002607.733358:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:26:07.73 [1:11:0123/002607.733464:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:26:56.95 [1:11:0123/002656.957398:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:26:56.95 [1:11:0123/002656.957495:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:29:11.13 [2296:2296:0123/002911.135367:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_622516073&key=21ef897172770ca75d&t=1579719551073' because it violates the following Content Security Policy directive: "script-src 'report-sample' 'nonce-vm5cvzy8YJQ2s++LFWPQIA' 'unsafe-inline'". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 23, 2020 24:29:11.13 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 23, 2020 24:29:11.13 [2296:2296:0123/002911.136169:ERROR:CONSOLE(1)] "Refused to load the script 'https://linkangood.com/optout/get?jsonp=__mtz_cb_622516073&key=21ef897172770ca75d&t=1579719551073' because it violates the following Content Security Policy directive: "script-src 'nonce-vm5cvzy8YJQ2s++LFWPQIA' 'self' 'unsafe-eval' https://apis.google.com https://ssl.gstatic.com https://www.google.com https://www.gstatic.com https://www.google-analytics.com". Note that 'script-src-elem' was not explicitly set, so 'script-src' is used as a fallback.
+Jan 23, 2020 24:29:11.13 ", source: https://linkangood.com/21ef897172770ca75d.js (1)
+Jan 23, 2020 24:29:52.02 [2296:2319:0123/002952.021053:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:32:09.29 [2296:2319:0123/003209.291557:ERROR:socket_stream.cc(219)] Closing stream with result -2
+Jan 23, 2020 24:37:34.42 [2334:2334:0123/003734.425775:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 24:37:36.81 [2334:2334:0123/003736.817177:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 24:37:48.09 [1:11:0123/003748.091296:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:37:48.09 [1:11:0123/003748.092410:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:42:03.49 [1:11:0123/004203.496001:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:42:03.53 [1:11:0123/004203.496095:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:42:21.41 [1:11:0123/004221.416704:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:42:21.41 [1:11:0123/004221.416782:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:42:35.40 [1:11:0123/004235.401530:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:42:35.40 [1:11:0123/004235.401629:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:42:50.17 [1:11:0123/004250.169941:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:42:50.17 [1:11:0123/004250.170030:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+Jan 23, 2020 24:47:29.91 [1:11:0123/004729.918692:ERROR:data_channel.cc(44)] Accepting maxRetransmits = -1 for backwards compatibility
+Jan 23, 2020 24:47:29.91 [1:11:0123/004729.918781:ERROR:data_channel.cc(49)] Accepting maxRetransmitTime = -1 for backwards compatibility
+
+Jan 23, 2020 11:47:55.37 NEW SESSION
+Jan 23, 2020 11:47:55.37 [4037:4139:0123/114755.231265:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 11:48:02.05 [4172:4172:0123/114802.052911:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 11:48:12.89 [4172:4172:0123/114812.898271:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 11:48:19.99 [4037:4139:0123/114819.992275:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 11:48:30.36 [4037:4037:0123/114830.365861:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 11:49:08.22 [4037:4139:0123/114908.222059:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 11:50:30.47 [4037:4139:0123/115030.476776:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 11:52:25.93 [4037:4037:0123/115225.916690:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 11:52:51.18 [4037:4037:0123/115251.181489:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 11:53:19.51 [4037:4139:0123/115319.517804:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 11:53:38.44 [4037:4037:0123/115338.443764:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 11:55:35.40 [4037:4037:0123/115535.409453:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:01:33.75 [4037:4037:0123/120133.752779:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:01:54.49 [4037:4139:0123/120154.494153:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -7
+Jan 23, 2020 12:01:57.11 [4177:4180:0123/120157.111814:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jan 23, 2020 12:02:17.28 [4037:4139:0123/120217.288315:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:02:29.97 [4037:4395:0123/120229.973028:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:03:26.15 [4037:4139:0123/120326.157247:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:03:26.15 [4037:4395:0123/120326.158171:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:07:20.91 [4177:4180:0123/120720.913397:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jan 23, 2020 12:08:07.48 [4037:4139:0123/120807.488784:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:08:17.24 [4037:4139:0123/120817.247562:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:08:17.74 [4037:4139:0123/120817.748578:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:08:33.22 [4037:4037:0123/120833.217968:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:10:51.05 [4177:4180:0123/121051.055014:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 23, 2020 12:10:51.05 [4037:4139:0123/121051.055453:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -100
+Jan 23, 2020 12:12:53.17 [4037:4139:0123/121253.046005:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:14:42.10 [4037:4037:0123/121442.100700:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 12:14:43.70 [4037:4139:0123/121443.700169:ERROR:browser_process_sub_thread.cc(221)] Waited 651 ms for network service
+Jan 23, 2020 12:17:31.96 [5984:5984:0123/121731.964779:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 12:17:39.71 [5984:5984:0123/121739.718644:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 12:17:52.66 [5989:5993:0123/121752.666117:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -101
+Jan 23, 2020 12:18:01.12 [5947:5968:0123/121801.129121:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:18:04.20 [5947:5968:0123/121804.201129:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -109
+Jan 23, 2020 12:18:39.61 [5947:5968:0123/121839.581146:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:19:19.47 [5947:5968:0123/121919.474387:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:19:35.66 [5947:6221:0123/121935.664410:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:19:38.59 [5947:5968:0123/121938.596799:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:19:39.88 [5947:6221:0123/121939.880458:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:19:50.38 [5947:5968:0123/121950.380497:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:20:20.66 [5947:6221:0123/122020.668865:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:21:31.75 [5947:5968:0123/122131.758661:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:21:31.76 [5947:6221:0123/122131.766358:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:21:39.93 [5947:5968:0123/122139.935822:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:21:39.94 [5947:6221:0123/122139.939678:ERROR:get_updates_processor.cc(246)] PostClientToServerMessage() failed during GetUpdates
+Jan 23, 2020 12:21:50.98 [5947:5968:0123/122150.984583:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:21:52.98 [5947:5968:0123/122152.984029:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:22:10.64 [5989:5993:0123/122210.644696:ERROR:ssl_client_socket_impl.cc(947)] handshake failed; returned -1, SSL error code 1, net_error -100
+Jan 23, 2020 12:22:10.64 [5947:5968:0123/122210.645105:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -100
+Jan 23, 2020 12:22:53.78 [5947:5968:0123/122253.781865:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -7
+Jan 23, 2020 12:23:18.44 [5947:5968:0123/122318.448666:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:23:30.70 [5947:5968:0123/122330.708313:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:27:32.73 [5947:5968:0123/122732.735369:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:27:39.31 [5947:5947:0123/122739.308379:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:28:01.31 [5947:5947:0123/122801.315194:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:28:11.30 [5947:5968:0123/122811.304861:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:28:38.64 [5947:5968:0123/122838.648976:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:28:42.66 [5947:5968:0123/122842.667554:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:28:44.62 [5947:5968:0123/122844.619821:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:28:48.72 [5947:5947:0123/122848.725722:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:29:31.75 [5947:5968:0123/122931.753947:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:29:55.41 [5947:5968:0123/122955.409885:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:30:10.49 [5947:5968:0123/123010.498100:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -105
+Jan 23, 2020 12:30:13.65 [5947:5968:0123/123013.655775:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:30:31.78 [5947:5947:0123/123031.786406:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:34:04.75 [5947:5947:0123/123404.750906:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:39:20.08 [5947:5947:0123/123920.051705:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 12:39:21.39 [5947:5968:0123/123921.395768:ERROR:browser_process_sub_thread.cc(221)] Waited 389 ms for network service
+Jan 23, 2020 12:40:22.05 [6884:6884:0123/124021.836369:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 12:40:32.33 [6848:6869:0123/124032.338045:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:40:42.03 [6884:6884:0123/124042.032601:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 12:40:54.26 [6848:6869:0123/124054.254121:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:41:11.58 [6848:6848:0123/124111.402270:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 12:41:40.21 [6848:6869:0123/124140.216870:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:41:50.34 [6884:6884:0123/124150.339420:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 12:43:09.20 [6848:6869:0123/124309.205618:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:46:37.56 [6848:6869:0123/124637.555586:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:49:49.55 [6848:6848:0123/124949.512844:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:50:11.71 [6848:6848:0123/125011.712613:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:51:04.13 [6848:6848:0123/125104.138011:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:52:43.53 [6848:6848:0123/125243.352897:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 12:53:22.96 [7419:7440:0123/125322.181519:ERROR:browser_process_sub_thread.cc(221)] Waited 2618 ms for network service
+Jan 23, 2020 12:53:23.33 Opening in existing browser session.
+Jan 23, 2020 12:53:40.61 [6848:6869:0123/125340.616883:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 12:55:56.09 [6848:6848:0123/125556.046804:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:03:23.96 [6848:6848:0123/130323.860241:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:03:40.86 [6848:6869:0123/130340.861597:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 13:13:23.90 [6848:6848:0123/131323.901293:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:13:40.87 [6848:6869:0123/131340.878366:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 13:23:23.90 [6848:6848:0123/132323.904488:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:23:40.89 [6848:6869:0123/132340.898364:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 13:33:23.90 [6848:6848:0123/133323.908036:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:33:40.90 [6848:6869:0123/133340.908651:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 13:43:23.91 [6848:6848:0123/134323.910061:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:43:40.92 [6848:6869:0123/134340.923399:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 13:53:23.91 [6848:6848:0123/135323.913762:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 13:53:40.94 [6848:6869:0123/135340.942821:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:03:23.93 [6848:6848:0123/140323.917191:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:03:40.95 [6848:6869:0123/140340.957218:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:04:30.10 [6884:6884:0123/140430.106058:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 14:04:39.89 [6848:6848:0123/140439.898660:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 14:04:43.89 [6848:6869:0123/140443.892913:ERROR:browser_process_sub_thread.cc(221)] Waited 2094 ms for network service
+Jan 23, 2020 14:05:30.14 [9099:9120:0123/140530.091357:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:05:30.94 [9134:9134:0123/140530.944682:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 14:05:41.81 [9134:9134:0123/140541.816852:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 14:05:50.42 [9099:9120:0123/140550.429267:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:06:13.30 [9099:9099:0123/140613.261983:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 14:06:48.28 [9099:9120:0123/140648.182814:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:08:27.85 [9099:9120:0123/140827.855132:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:11:26.31 [9099:9120:0123/141126.275106:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:12:16.20 [9099:9099:0123/141216.180307:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:12:37.95 [9099:9099:0123/141237.950740:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:13:21.00 [9099:9099:0123/141321.003317:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:15:02.17 [9099:9099:0123/141502.177575:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:18:04.90 [9099:9099:0123/141804.862170:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:19:21.79 [9099:9120:0123/141921.799481:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:25:38.23 [9099:9099:0123/142538.151321:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 14:29:21.97 [9099:9120:0123/142921.977711:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 14:35:38.23 [9099:9099:0123/143538.215436:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:04:56.19 [9099:9120:0123/150456.106594:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:11:12.13 [9099:9099:0123/151112.098248:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:14:56.28 [9099:9120:0123/151456.287745:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:18:08.03 [9099:9099:0123/151807.921132:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 15:18:13.01 [9099:9120:0123/151813.010271:ERROR:browser_process_sub_thread.cc(221)] Waited 2356 ms for network service
+Jan 23, 2020 15:20:20.46 [11590:11590:0123/152019.490750:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 15:21:40.65 [11554:11575:0123/152140.123441:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:23:20.21 [11590:11590:0123/152310.631002:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+Jan 23, 2020 15:32:03.98 NEW SESSION
+Jan 23, 2020 15:32:03.98 [2448:2448:0123/153203.981618:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 15:32:09.70 [2412:2433:0123/153209.709666:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:32:10.33 [2448:2448:0123/153210.338585:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:32:37.05 [2412:2433:0123/153237.050411:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:32:44.38 [2412:2412:0123/153244.384711:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 15:33:30.36 [2448:2448:0123/153330.361364:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:33:31.04 [2412:2433:0123/153331.044228:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:33:31.31 [2448:2448:0123/153331.313681:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:33:32.71 [2448:2448:0123/153332.716963:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:33:33.99 [2448:2448:0123/153333.997443:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:35:15.32 [2412:2433:0123/153515.324654:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:35:35.40 [2874:2895:0123/153535.408920:ERROR:browser_process_sub_thread.cc(221)] Waited 158 ms for network service
+Jan 23, 2020 15:35:35.53 Opening in existing browser session.
+Jan 23, 2020 15:38:20.46 [2412:2433:0123/153820.466384:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:39:39.06 [2412:2412:0123/153939.035384:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:40:05.11 [2412:2412:0123/154005.118223:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:40:51.86 [2412:2412:0123/154051.868456:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:42:22.28 [2412:2412:0123/154222.288244:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:44:12.07 [2412:2433:0123/154412.070997:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:45:51.68 [2412:2412:0123/154551.684405:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:50:22.23 Gtk-Message: 15:50:22.230: GtkDialog mapped without a transient parent. This is discouraged.
+Jan 23, 2020 15:52:34.36 [3621:3642:0123/155234.310252:ERROR:browser_process_sub_thread.cc(221)] Waited 792 ms for network service
+Jan 23, 2020 15:52:34.43 Opening in existing browser session.
+Jan 23, 2020 15:53:45.89 [2412:2412:0123/155345.787817:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 15:54:12.14 [2412:2433:0123/155412.145729:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 15:54:28.34 [2448:2448:0123/155428.346408:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:54:35.59 [2448:2448:0123/155435.590983:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:54:40.95 [2448:2448:0123/155440.951960:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:54:44.46 [2448:2448:0123/155444.439455:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:55:00.10 [2448:2448:0123/155500.103602:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 15:55:15.28 [2448:2448:0123/155515.285256:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+
+Jan 23, 2020 16:20:19.47 NEW SESSION
+Jan 23, 2020 16:20:19.47 [3068:3068:0123/162019.469280:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 16:20:30.29 [3031:3052:0123/162030.290537:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:20:33.17 [3068:3068:0123/162033.170985:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 16:20:57.87 [3031:3052:0123/162057.875184:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:21:06.85 [3031:3031:0123/162106.858021:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 16:21:48.44 [3031:3052:0123/162148.440395:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:22:19.69 [3031:3031:0123/162219.693567:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:22:41.16 [3031:3031:0123/162241.168255:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:23:25.81 [3031:3031:0123/162325.809955:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:23:34.15 [3031:3052:0123/162334.155485:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:25:14.91 [3031:3031:0123/162514.918683:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:26:46.33 [3031:3052:0123/162646.336041:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:28:00.86 [3031:3031:0123/162800.866973:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:34:15.36 [3031:3052:0123/163415.361198:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:35:30.33 [3031:3031:0123/163530.339161:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:37:07.72 [3031:3031:0123/163707.725859:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 16:37:08.05 [3031:3052:0123/163708.051047:ERROR:browser_process_sub_thread.cc(221)] Waited 109 ms for network service
+Jan 23, 2020 16:38:20.07 [3867:3888:0123/163819.674051:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:38:30.65 [3904:3904:0123/163830.659351:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 16:38:31.36 [3904:3904:0123/163831.368453:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 16:38:40.27 [3867:3888:0123/163840.279537:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:38:57.12 [3867:3867:0123/163857.127693:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 16:39:38.39 [3867:3888:0123/163938.394379:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:41:18.92 [3867:3888:0123/164118.845060:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:44:44.82 [3867:3888:0123/164444.828649:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:49:50.17 [3867:3867:0123/164950.173118:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:50:15.40 [3867:3867:0123/165015.402499:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:51:13.54 [3867:3867:0123/165113.542754:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:52:11.82 [3867:3888:0123/165211.825581:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:52:53.32 [3867:3867:0123/165253.322076:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 16:54:12.45 [3867:3867:0123/165412.432035:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 16:54:13.81 [3867:3888:0123/165413.815379:ERROR:browser_process_sub_thread.cc(221)] Waited 520 ms for network service
+Jan 23, 2020 16:55:37.59 [4628:4649:0123/165537.354995:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:55:39.82 [4663:4663:0123/165539.826132:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 16:55:41.63 [4663:4663:0123/165541.636342:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 16:56:06.58 [4628:4649:0123/165606.471362:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:56:09.98 [4628:4628:0123/165609.987677:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 16:57:01.98 [4628:4649:0123/165701.949664:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 16:58:36.61 [4628:4649:0123/165836.612030:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:00:09.29 [4628:4628:0123/170009.289910:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:00:36.80 [4628:4628:0123/170036.800617:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:01:36.53 [4628:4628:0123/170136.534490:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:02:27.94 [4628:4649:0123/170227.891671:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:03:27.95 [4628:4628:0123/170327.914670:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:06:16.03 [4628:4628:0123/170616.031532:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:08:17.01 [4628:4649:0123/170816.971824:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:13:09.92 [4628:4628:0123/171309.927430:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:18:17.01 [4628:4649:0123/171817.017611:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:23:09.93 [4628:4628:0123/172309.931490:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:28:17.02 [4628:4649:0123/172817.020652:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:33:09.93 [4628:4628:0123/173309.934132:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:38:17.02 [4628:4649:0123/173817.024702:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:43:09.97 [4628:4628:0123/174309.938478:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:48:17.02 [4628:4649:0123/174817.027966:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 17:53:09.94 [4628:4628:0123/175309.941467:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 17:58:17.03 [4628:4649:0123/175817.031899:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:03:09.94 [4628:4628:0123/180309.946005:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:08:17.03 [4628:4649:0123/180817.034518:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:13:09.95 [4628:4628:0123/181309.949743:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:18:17.03 [4628:4649:0123/181817.037310:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:23:10.03 [4628:4628:0123/182309.986601:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:28:17.19 [4628:4649:0123/182817.188911:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:33:10.00 [4628:4628:0123/183310.003767:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:33:46.01 [4628:4628:0123/183346.013862:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 18:33:48.85 [4628:4649:0123/183348.855881:ERROR:browser_process_sub_thread.cc(221)] Waited 1045 ms for network service
+Jan 23, 2020 18:35:56.94 [8234:8234:0123/183554.573464:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 18:35:57.52 [8180:8209:0123/183557.387465:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:36:01.24 [8234:8234:0123/183601.248669:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 18:36:22.94 [8180:8209:0123/183622.057068:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:36:38.75 [8180:8180:0123/183638.083786:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 18:37:35.15 [8180:8209:0123/183735.152597:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:39:12.30 [8180:8209:0123/183912.273555:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:43:08.93 [8180:8209:0123/184308.859313:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:43:51.40 [8180:8180:0123/184351.400229:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:44:20.67 [8180:8180:0123/184420.671923:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:45:14.61 [8180:8180:0123/184514.615814:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:46:51.76 [8180:8180:0123/184651.764872:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:47:26.82 [8234:8234:0123/184726.828767:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 18:48:05.46 [8180:8180:0123/184805.463630:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 18:48:08.97 [8180:8209:0123/184808.976832:ERROR:browser_process_sub_thread.cc(221)] Waited 651 ms for network service
+Jan 23, 2020 18:50:07.00 [9014:9035:0123/185006.556597:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:50:12.12 [9014:9014:0123/185012.128100:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:50:17.81 [9050:9050:0123/185017.816512:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 18:50:45.42 [9050:9050:0123/185044.141578:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 18:50:49.57 [9014:9035:0123/185049.517265:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:50:54.51 [9014:9014:0123/185054.491223:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:50:55.72 [9050:9050:0123/185055.721597:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 18:51:24.34 [9014:9014:0123/185123.600372:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 18:51:57.72 [9014:9014:0123/185157.252956:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 18:51:58.41 [9014:9035:0123/185158.414614:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:53:01.96 [9050:9050:0123/185300.733090:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 18:53:29.94 [9014:9035:0123/185329.698668:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 18:53:43.00 [9014:9014:0123/185342.886539:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jan 23, 2020 19:02:44.05 NEW SESSION
+Jan 23, 2020 19:02:44.05 [2482:2482:0123/190244.054696:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 19:02:51.96 [2446:2467:0123/190251.963273:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:02:51.98 [2482:2482:0123/190251.983305:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 19:03:17.80 [2446:2467:0123/190317.808633:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:03:24.71 [2446:2446:0123/190324.712423:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 19:04:16.61 [2446:2467:0123/190416.617336:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:05:20.34 [2446:2446:0123/190520.340963:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 19:05:21.30 [2446:2467:0123/190521.308866:ERROR:browser_process_sub_thread.cc(221)] Waited 323 ms for network service
+Jan 23, 2020 19:06:34.79 [2907:2928:0123/190634.723428:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:06:36.28 [2944:2944:0123/190636.288998:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 19:06:39.77 [2944:2944:0123/190639.770117:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 19:07:01.65 [2907:2928:0123/190701.654224:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:07:09.06 [2907:2907:0123/190709.063718:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 19:07:57.58 [2907:2928:0123/190757.585843:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:09:35.93 [2907:2928:0123/190935.924595:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:10:37.71 [2907:2907:0123/191037.699768:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:11:01.73 [2907:2907:0123/191101.738212:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:11:48.92 [2907:2907:0123/191148.923454:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:12:39.42 [2907:2928:0123/191239.428727:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:13:35.40 [2907:2907:0123/191335.407727:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:16:24.57 [2907:2907:0123/191624.577816:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:20:10.78 [2907:2928:0123/192010.628345:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:22:21.64 [2907:2907:0123/192221.469752:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+
+Jan 23, 2020 19:28:03.85 NEW SESSION
+Jan 23, 2020 19:28:03.86 [2386:2386:0123/192803.854235:ERROR:sandbox_linux.cc(368)] InitializeSandbox() called with multiple threads in process gpu-process.
+Jan 23, 2020 19:28:10.50 [2348:2371:0123/192810.505608:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:28:10.94 [2386:2386:0123/192810.947251:ERROR:buffer_manager.cc(488)] [.DisplayCompositor]GL ERROR :GL_INVALID_OPERATION : glBufferData: <- error from previous GL command
+Jan 23, 2020 19:28:34.78 [2348:2371:0123/192834.788754:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:28:44.88 [2348:2348:0123/192844.887226:ERROR:account_tracker.cc(240)] AccessTokenFetched error: Connection failed (-106).
+Jan 23, 2020 19:29:25.78 [2348:2371:0123/192925.786574:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:31:21.16 [2348:2371:0123/193121.165433:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:34:08.69 [2348:2371:0123/193408.699430:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:41:12.64 [2348:2371:0123/194112.642060:ERROR:connection_factory_impl.cc(413)] Failed to connect to MCS endpoint with error -106
+Jan 23, 2020 19:41:19.02 [2348:2348:0123/194119.029247:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:41:43.86 [2348:2348:0123/194143.862285:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:42:32.16 [2348:2348:0123/194232.160574:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:44:14.69 [2348:2348:0123/194414.697055:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
+Jan 23, 2020 19:44:43.88 [2348:2348:0123/194443.882589:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
+Jan 23, 2020 19:44:44.27 [2348:2371:0123/194444.276881:ERROR:browser_process_sub_thread.cc(221)] Waited 125 ms for network service

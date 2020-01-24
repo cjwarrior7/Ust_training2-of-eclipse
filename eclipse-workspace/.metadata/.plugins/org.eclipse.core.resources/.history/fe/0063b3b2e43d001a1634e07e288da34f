@@ -1,0 +1,209 @@
+package com.company.spring.daolayer;
+import java.io.IOException;
+import java.io.PrintWriter;
+import java.util.List;
+
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+import javax.servlet.http.HttpSession;
+
+import org.hibernate.Criteria;
+import org.hibernate.Session;
+import org.hibernate.SessionFactory;
+import org.hibernate.criterion.Restrictions;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import com.company.spring.model.EmailDT0;
+import com.company.spring.model.UserDTO;
+
+
+@Component
+public class MyDaoImp implements MyDao {
+	  @Autowired
+      SessionFactory sf;
+	
+	@Override
+	public boolean register(UserDTO dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		Criteria cr=ss.createCriteria(UserDTO.class);
+		cr.add(Restrictions.eq("Email",dto.getEmail()));
+		UserDTO mdto=(UserDTO)cr.uniqueResult();
+		if(mdto!=null) {
+			return false;
+		}
+		else {
+			ss.save(dto);
+			ss.beginTransaction().commit();
+			ss.close();
+			return true;
+		}
+		
+	}
+
+	@Override
+	public boolean login(UserDTO dto,HttpSession session) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		String email=(String) session.getAttribute("email");
+		Criteria cr=ss.createCriteria(UserDTO.class);
+		cr.add(Restrictions.eq("Email",dto.getEmail()));
+		cr.add(Restrictions.eq("Password",dto.getPassword()));
+		UserDTO mdto=(UserDTO)cr.uniqueResult();
+		if(mdto!=null) {
+			return true;
+		}
+		else {
+			return false;
+		}
+		
+	}
+
+	@Override
+	public boolean compose(EmailDT0 dto , UserDTO udto,HttpServletRequest request,HttpSession session) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside dao");
+		Session ss=sf.openSession();
+		String email=(String) session.getAttribute("email");
+	    System.out.println("sender:"+email);
+		
+		Criteria cr=ss.createCriteria(UserDTO.class);
+		cr.add(Restrictions.eq("Email",dto.getReceiver()));
+		UserDTO udto1=(UserDTO)cr.uniqueResult();
+		//Criteria cr1=ss.createCriteria(EmailDT0.class);
+		//cr1.add(Restrictions.eq("receiver",dto.getReceiver()));
+		//EmailDT0 dto1=(EmailDT0)cr1.uniqueResult();
+		dto=new EmailDT0();
+		String receiver=request.getParameter("receiver");
+		if(udto1==null) {
+			String subject=request.getParameter("subject");
+			String body=request.getParameter("body");
+			dto.setBody(body);
+			if(dto.getReceiver()==null) {
+				dto.setReceiver("0");
+			}
+			else {
+				dto.setReceiver("receiver"+"0");
+			}
+			
+			dto.setSubject(subject);
+			dto.setSender(email);
+			ss.save(dto);
+			ss.beginTransaction().commit();
+			ss.close();
+			return false;
+		}
+		else {
+			String subject=request.getParameter("subject");
+			String body=request.getParameter("body");
+			dto.setBody(body);
+			dto.setReceiver(receiver);
+			dto.setSubject(subject);
+			dto.setSender(email);
+			ss.save(dto);
+			ss.beginTransaction().commit();
+			ss.close();
+			return true;
+		}
+	
+	
+			
+	
+		
+	}
+
+	@Override
+	public void draft(EmailDT0 dto, HttpServletRequest request,HttpServletResponse response, HttpSession session) {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		PrintWriter pw;
+		try {
+		pw = response.getWriter();
+		Session ss=sf.openSession();
+		String email=(String) session.getAttribute("email");
+		Criteria cr=ss.createCriteria(EmailDT0.class);
+		String check="0";
+		cr.add(Restrictions.eq("receiver",check));
+		cr.add(Restrictions.eq("sender",email));
+		List<EmailDT0> list=cr.list();
+		 pw.print("<table border=2 align=center ><tr><th>Body</th><th>Receiver</th><th>Sender</th><th>subject</th></tr>");
+		 for (EmailDT0 ele : list) {
+			 pw.println("<tr><td>"+ele.getBody()+"</td><td>"+ele.getReceiver()+"</td><td>"+ele.getSender()+"</td><td>"+ele.getSubject() +"</td></tr>");
+			
+		}
+		 }
+		
+		 catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		
+		
+		
+	}
+
+	@Override
+	public void inbox(EmailDT0 dto, HttpServletRequest request,HttpServletResponse response, HttpSession session) {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		PrintWriter pw;
+		try {
+			pw = response.getWriter();
+		Session ss=sf.openSession();
+		String email=(String) session.getAttribute("email");
+		Criteria cr=ss.createCriteria(EmailDT0.class);
+		cr.add(Restrictions.eq("receiver",email));
+		List<EmailDT0> list=cr.list();
+		 pw.print("<table border=2 align=center ><tr><th>Body</th><th>Receiver</th><th>Sender</th><th>subject</th></tr>");
+		 for (EmailDT0 ele: list) {
+			 pw.println("<tr><td>"+ele.getBody()+"</td><td>"+ele.getReceiver()+"</td><td>"+ele.getSender()+"</td><td>"+ele.getSubject() +"</td></tr>");
+			
+		}
+		 }
+		 catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+		 
+		
+	}
+
+	@Override
+	public void sentbox(EmailDT0 dto, HttpServletRequest request,HttpServletResponse response, HttpSession session) {
+		// TODO Auto-generated method stub
+		response.setContentType("text/html");
+		PrintWriter pw;
+		try {
+			pw = response.getWriter();
+		 
+		Session ss=sf.openSession();
+		String email=(String) session.getAttribute("email");
+		Criteria cr=ss.createCriteria(EmailDT0.class);
+		cr.add(Restrictions.eq("sender",email));
+		String check="0";
+		cr.add(Restrictions.ne("reciver",check));
+		List<EmailDT0> list=cr.list();
+		 pw.print("<table border=2 align=center ><tr><th>Body</th><th>Receiver</th><th>Sender</th><th>subject</th></tr>");
+		 for (EmailDT0 ele : list) {
+			 pw.println("<tr><td>"+ele.getBody()+"</td><td>"+ele.getReceiver()+"</td><td>"+ele.getSender()+"</td><td>"+ele.getSubject() +"</td></tr>");
+			
+		}
+		 }
+		 catch (IOException e) {
+				// TODO Auto-generated catch block
+				e.printStackTrace();
+			}
+	
+	}
+
+
+
+
+
+
+	
+  
+}

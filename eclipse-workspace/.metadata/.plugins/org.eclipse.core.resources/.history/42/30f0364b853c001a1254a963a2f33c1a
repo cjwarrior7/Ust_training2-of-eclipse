@@ -1,0 +1,16 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Index Page</title>
+</head>
+<body>
+<h1>Welcome to SpringMVC1.0</h1>
+<a href=link1>login</a>
+<a href=link2>register</a>
+
+<!-- ctrl+shift+t -to copy class name of dispatcher servlet-->
+</body>
+</html>

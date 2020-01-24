@@ -6,6 +6,7 @@
 		<item value="Apache Tomcat v8.0"/>
 	</list>
 	<list key="J2EE_EXPORT_JST_WEB">
+		<item value="/home/cjwarrior7/Desktop/EmailMVCSpring.war"/>
 		<item value="/home/cjwarrior7/Desktop/StudMangSystem.war"/>
 	</list>
 </section>

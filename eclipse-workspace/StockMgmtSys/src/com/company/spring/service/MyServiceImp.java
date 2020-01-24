@@ -1,0 +1,20 @@
+package com.company.spring.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Component;
+
+import com.company.spring.daolayer.MyDao;
+import com.company.spring.model.Stock;
+@Component
+public class MyServiceImp implements MyService{
+	@Autowired
+	MyDao mdao;
+	@Override
+	public void addproduct(Stock dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside Service");
+		mdao.addproduct(dto);
+		
+	}
+
+}

@@ -1,0 +1,16 @@
+package com.company.spring.daolayer;
+
+
+import javax.servlet.http.HttpSession;
+
+import com.company.spring.model.*;
+
+public interface MyDao {
+	boolean register(UserDTO dto);
+	boolean login(UserDTO dto,HttpSession session);
+	boolean compose(EmailDT0 dto);
+
+	
+	
+	
+}

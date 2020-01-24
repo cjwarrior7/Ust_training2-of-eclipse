@@ -1,0 +1,19 @@
+package com.company.spring.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+
+import com.company.spring.daoLayer.MyDao;
+import com.company.spring.model.Stock;
+
+public class MyServiceImp implements MyService{
+	@Autowired
+	MyDao mdao;
+	@Override
+	public void addproduct(Stock dto) {
+		// TODO Auto-generated method stub
+		System.out.println("Inside Service");
+		mdao.register(dto);
+		
+	}
+
+}

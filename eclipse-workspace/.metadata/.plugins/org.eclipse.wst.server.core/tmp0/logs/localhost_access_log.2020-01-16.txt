@@ -1,0 +1,9 @@
+127.0.0.1 - - [16/Jan/2020:22:47:37 +0530] "GET / HTTP/1.1" 404 994
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:47:48 +0530] "GET /SpringMVCDemo/ HTTP/1.1" 200 309
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:47:49 +0530] "GET /favicon.ico HTTP/1.1" 404 1016
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:47:52 +0530] "GET /SpringMVCDemo/login HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:47:56 +0530] "GET /SpringMVCDemo/register HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:48:01 +0530] "GET /SpringMVCDemo/profile HTTP/1.1" 200 168
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:48:05 +0530] "GET /SpringMVCDemo/link4 HTTP/1.1" 200 146
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:48:57 +0530] "GET /SpringMVCDemo/link4 HTTP/1.1" 200 160
+0:0:0:0:0:0:0:1 - - [16/Jan/2020:22:49:06 +0530] "GET /SpringMVCDemo/profile HTTP/1.1" 200 168
