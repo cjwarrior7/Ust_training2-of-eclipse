@@ -1,3 +1,4 @@
 #Tomcat publish data
-#Thu Jan 23 19:31:25 IST 2020
+#Fri Jan 24 22:31:26 IST 2020
+org.eclipse.jst.jee.server\:/binary\:/home/cjwarrior7/eclipse-workspace/StockMgmtSys/WebContent/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar=WEB-INF/lib/spring-web-4.2.2.RELEASE.jar
 org.eclipse.jst.jee.server\:/binary\:/home/cjwarrior7/eclipse-workspace/EmailMVCSpring/WebContent/WEB-INF/lib/spring-web-4.2.2.RELEASE.jar=WEB-INF/lib/spring-web-4.2.2.RELEASE.jar

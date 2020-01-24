@@ -11099,3 +11099,7 @@ Jan 23, 2020 19:42:32.16 [2348:2348:0123/194232.160574:ERROR:gcm_channel_status_
 Jan 23, 2020 19:44:14.69 [2348:2348:0123/194414.697055:ERROR:gcm_channel_status_request.cc(151)] GCM channel request failed.
 Jan 23, 2020 19:44:43.88 [2348:2348:0123/194443.882589:ERROR:http_bridge.cc(110)] Not implemented reached in virtual void syncer::HttpBridgeFactory::OnSignalReceived()
 Jan 23, 2020 19:44:44.27 [2348:2371:0123/194444.276881:ERROR:browser_process_sub_thread.cc(221)] Waited 125 ms for network service
+
+Jan 24, 2020 22:32:57.59 NEW SESSION
+Jan 24, 2020 22:32:57.59 [6689:6713:0124/223257.516589:ERROR:browser_process_sub_thread.cc(221)] Waited 2094 ms for network service
+Jan 24, 2020 22:32:57.69 Opening in existing browser session.
