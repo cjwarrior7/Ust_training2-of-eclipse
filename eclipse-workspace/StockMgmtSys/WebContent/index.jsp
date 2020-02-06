@@ -7,8 +7,11 @@
 <title>Insert title here</title>
 </head>
 <body>
-<h1>Welcome to StockMangemrntSystem</h1>
-<a href=link1>addproduct</a>
-
+<h1 align="center">WELCOME TO STOCK MANAGEMENT APPLICATION</h1>
+${msg}
+<h4 align='right'>
+<a href=link1 text-align="center">LOGIN</a> |
+<a href=link2 text-align="center">REGISTER</a>
+</h4>
 </body>
 </html>

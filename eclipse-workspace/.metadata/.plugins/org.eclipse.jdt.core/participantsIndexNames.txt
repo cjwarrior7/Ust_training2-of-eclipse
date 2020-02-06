@@ -15,11 +15,15 @@ INDEX VERSION 1.131
 /StockMgmtSys/src
 /home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/452684711.index
 /EmailMVCSpring/src
+/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3211759854.index
+/MailSimulations/src
 /home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/698792262.index
 /SpringMVCDemo/src
 /home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/4141703301.index
 /SpringMVCDemo1.1/src
 /home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3759527648.index
 /StockMgmtSys/src
+/home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3213358968.index
+/MailSimulations/src
 /home/cjwarrior7/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1782161711.index
 /SpringMVCDemo1.0/src

@@ -1,8 +1,0 @@
-package com.company.spring.Model;
-
-public class ModelDTO {
-private String Name ;
-private String Password ; 
-private String Age ;
-private String Email;
-}

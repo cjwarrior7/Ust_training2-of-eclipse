@@ -12,7 +12,10 @@
 		<property name="connection.url">jdbc:mysql://localhost:3306/my_testdb_adv_java</property>
 		<property name="hbm2ddl.auto">update</property>
 		<property name="show_sql">true</property>
-   		            <mapping class="com.company.spring.model.Stock"/> 
+   		            <mapping class="com.company.spring.model.Products_info"/> 
+   		            <mapping class="com.company.spring.model.Stock_User_info"/> 
+   		           <mapping class="com.company.spring.model.Addcart"/> 
+   		           
 	    </session-factory>
           	
           </hibernate-configuration>

@@ -1,5 +1,0 @@
-package com.company.spring.daolayer;
-
-public interface MyDao {
-
-}

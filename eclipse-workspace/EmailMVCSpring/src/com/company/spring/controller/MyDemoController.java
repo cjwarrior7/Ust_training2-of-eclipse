@@ -120,19 +120,9 @@ public class MyDemoController {
 		
 		
 	}
-	@RequestMapping("/sent")
-	public void sentboxmail(@ModelAttribute EmailDT0 dto,HttpServletRequest request,HttpServletResponse response,HttpSession session) {
-		System.out.println("inside controller");
-		//String user = (String)session.getAttribute("user");
-		
-		System.out.println(dto.getReceiver()+","+dto.getBody()+","+dto.getSubject());
-		ms.sentbox(dto,request, response,session);
 	
-		
-		
-		
-		
-	}
+
+	
 	
 
 }
